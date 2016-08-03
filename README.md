@@ -28,3 +28,5 @@ install("C:/Users/carlos/Downloads/rPython")
 ## Issues
 
 rPython on Windows is mostly experimental and has only been tested on one Windows box. Please, contact the maintainer (me) if you find any issues on your platform.
+
+Note: Modified for Anaconda Python.

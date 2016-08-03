@@ -1,0 +1,2 @@
+PKG_LIBS=-LC:/Anaconda2/libs -lpython27
+PKG_CFLAGS=-I"C:/Anaconda2/include"
